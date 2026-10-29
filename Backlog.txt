@@ -1,0 +1,78 @@
+
+BACKLOG
+
+OPIS
+Gra 3D typu endless runner, "inspirowana" Subway Surfers.
+Gracz porusza się pomiędzy trzema torami, omija przeszkody i zdobywa
+punkty za przebyty dystans.
+
+Silnik: Unity 6
+Język programowania: C#
+Platforma docelowa: Windows
+
+
+BACKLOG ZADAŃ
+
+Utworzenie podłoża i trzech torów. Dodanie podłoża oraz oznaczeń lewego, środkowego i prawego toru. (jest)
+
+Konfiguracja kamery i gracza. Ustawienie kamery oraz kapsuły zastępującej postać gracza.(jest)
+
+Sterowanie graczem. Dodanie możliwości zmiany toru za pomocą strzałek w lewo i w prawo. (jest)
+
+Ruch podłoża. Sprawdzenie i dopracowanie przesuwania podłoża oraz oznaczeń torów. (jest)
+
+Ruch przeszkód. Sprawdzenie działania skryptu poruszającego przeszkodą w stronę gracza. (jest)
+
+Kolizje z przeszkodami. Wykrywanie zderzenia gracza z przeszkodą.
+
+Ekran Game Over. Zatrzymanie rozgrywki i wyświetlenie komunikatu o przegranej.
+
+Niekończąca się trasa. Zapętlanie segmentów podłoża, aby trasa nie miała końca.
+
+Generator przeszkód. Automatyczne tworzenie przeszkód na różnych torach.
+
+
+System punktacji. Naliczanie punktów lub dystansu podczas biegu.
+
+
+Restart rozgrywki. Dodanie możliwości rozpoczęcia nowej rozgrywki po przegranej.
+
+
+Zwiększanie prędkości gry w trakcie rozgrywki.
+
+
+Skok przez przeszkody
+
+
+Ślizg pod przeszkodami.
+
+
+Przygotowanie ekranu startowego, wyświetlania wyniku i przycisków.
+
+
+Ulepszenie grafiki. Dodanie materiałów, kolorów i lepszych modeli 3D.
+
+
+Dodanie efektów dźwiękowych.
+
+
+
+Przygotowanie wersji beta
+
+
+
+
+
+KRYTERIA UKOŃCZENIA
+
+Projekt uznaje się za ukończony, gdy:
+- Gra uruchamia się bez błędów.
+- Gracz może zmieniać tory.
+- Trasa działa bez końca.
+- Przeszkody pojawiają się podczas rozgrywki.
+- Zderzenie z przeszkodą kończy grę.
+- Wynik jest naliczany i wyświetlany.
+- Można rozpocząć nową rozgrywkę.
+- Gra działa poza edytorem Unity.
+- Pliki projektu są zapisane w repozytorium GitHub.
+
